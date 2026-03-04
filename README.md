@@ -1,26 +1,36 @@
-<h1 align="center">Hi 👋, I'm Juanda</h1>
-<h3 align="center">A frontend developer from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juandavidperez&label=Profile%20views&color=0e75b6&style=flat" alt="juandavidperez" /> </p>
+## Juan David Perez Vergara
 
-- 🔭 I’m currently working on [fitplan](https://github.com/juandavidperez/FitPlan)
+**Fullstack Developer** with 2 years of experience building enterprise web applications used across Colombia and Brazil. Currently open to remote opportunities.
 
-- 🌱 I’m currently learning **React, React native, Angular**
+### What I work with
 
-- 📫 How to reach me **juandavidperezvergara@gmail.com**
+**Web — Fullstack**
+`Angular` `TypeScript` `Java` `Spring Boot` `Spring Security` `PostgreSQL` `SQL Server` `NgRx` `RxJS`
 
-- ⚡ Fun fact **I love fantasy worlds**
+**Mobile — Android**
+`Kotlin` `Java` `Android Studio` `MVVM` `Room` `Retrofit`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+**Tools**
+`Git` `Docker` `Postman` `Agile/Scrum`
 
-<h3 align="left">Languages and Tools:</h3>
-<p>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+### Experience
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a></p>
+Most recently at **Quipux** (2 years), where I:
+- Migrated a reports module from AngularJS → Angular 19 for a platform serving organizations in Colombia and Brazil
+- Built a complete report generation feature end-to-end (Spring Boot APIs + Angular frontend)
+- Designed and maintained REST APIs, optimized SQL queries, and implemented i18n + NgRx state management
+- Developed native Android features (Kotlin/Java) during my internship year
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juandavidperez&show_icons=true&theme=radical&title_color=ff5f6b&text_color=b2dafa&bg_color=252850&locale=en" alt="juandavidperez" /></p>
+### Currently building
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juandavidperez&theme=dark" alt="juandavidperez" /></p>
+Working on portfolio projects to showcase fullstack and mobile skills. Stay tuned.
+
+
+
+### Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juandpv/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:juandavidperezvergara@gmail.com)
+
+Medellín, Colombia · Open to remote work · English: IELTS 6.5
