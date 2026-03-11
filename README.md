@@ -22,11 +22,13 @@ Most recently at **Quipux** (2 years), where I:
 - Designed and maintained REST APIs, optimized SQL queries, and implemented i18n + NgRx state management
 - Developed native Android features (Kotlin/Java) during my internship year
 
-### Currently building
+### Projects
 
-Working on portfolio projects to showcase fullstack and mobile skills. Stay tuned.
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| Trackr | Kanban-based task and project manager with JWT auth, role-based access, and real-time updates | Angular · Spring Boot · PostgreSQL | [Demo](https://trackr-pm.netlify.app) · [Repo](https://github.com/juandavidperez/Trackr) |
 
-
+*More projects coming soon.*
 
 ### Get in touch
 
