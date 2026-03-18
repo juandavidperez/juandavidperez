@@ -1,4 +1,3 @@
-
 ## Juan David Perez Vergara
 
 **Fullstack Developer** with 2 years of experience building enterprise web applications used across Colombia and Brazil. Currently open to remote opportunities.
@@ -27,8 +26,7 @@ Most recently at **Quipux** (2 years), where I:
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
 | Trackr | Kanban-based task and project manager with JWT auth, role-based access, and real-time updates | Angular · Spring Boot · PostgreSQL | [Demo](https://trackr-pm.netlify.app) · [Repo](https://github.com/juandavidperez/Trackr) |
-
-*More projects coming soon.*
+| VoltCommerce | Full-stack e-commerce platform for electronics — REST API with Spring Boot, Angular storefront, Stripe payments, admin dashboard with analytics, Dockerized with Flyway migrations | Angular · Spring Boot · PostgreSQL · Stripe | [Demo](https://voltcommerce.netlify.app/products) · [Repo](https://github.com/juandavidperez/VoltCommerce) |
 
 ### Get in touch
 
