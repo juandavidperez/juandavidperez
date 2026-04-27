@@ -25,6 +25,7 @@ Most recently at **Quipux** (2 years), where I:
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
+| DevPrep | AI-powered mock interview simulator for software developers — chat-based UI with voice interaction, real-time scoring, 320 curated questions (EN/ES), smart AI provider routing, session history, and bilingual dashboard | Next.js · React · TypeScript · Tailwind CSS · Prisma · PostgreSQL · Auth.js · Claude Haiku | [Live Demo](https://dev-prep-xi.vercel.app) · [Repo](https://github.com/juandavidperez/DevPrep) |
 | Trackr | Kanban-based task and project manager with JWT auth, role-based access, and real-time updates | Angular · Spring Boot · PostgreSQL | [Demo](https://trackr-pm.netlify.app) · [Repo](https://github.com/juandavidperez/Trackr) |
 | VoltCommerce | Full-stack e-commerce platform for electronics — REST API with Spring Boot, Angular storefront, Stripe payments, admin dashboard with analytics, Dockerized with Flyway migrations | Angular · Spring Boot · PostgreSQL · Stripe | [Demo](https://voltcommerce.netlify.app/products) · [Repo](https://github.com/juandavidperez/VoltCommerce) |
 
